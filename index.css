@@ -1,0 +1,431 @@
+bpk-nyoman-hendra-adiwijaya.frame-child,
+.frame-set-child {
+  align-self: stretch;
+  position: relative;
+  display: none;
+}
+
+.frame-set-child {
+  height: 631px;
+  background-color: var(--color-darkslateblue);
+  z-index: 0;
+}
+
+.frame-child {
+  width: 1280px;
+  background: linear-gradient(89.8deg, #41436a, #8084d0);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  max-width: 100%;
+  z-index: 1;
+}
+
+.bio-graphi-frame,
+.line {
+  box-sizing: border-box;
+}
+
+.bio-graphi-frame {
+  width: 543px;
+  height: 0;
+  width: 50rem;
+  right: 17rem;
+  position: relative;
+  border-top: 2px solid var(--color-darksalmon);
+  z-index: 1;
+}
+
+.line {
+  height: 37px;
+  width: 616px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-18xl) 0 0;
+}
+
+.biografi,
+.frame-item {
+  position: relative;
+  z-index: 1;
+}
+
+.biografi {
+  height: 75px;
+  width: 341px;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  max-width: 100%;
+  left: -7rem;
+  margin: 0 0 0-73px;
+}
+
+.frame-item {
+  right: 8.599rem;
+  width: 50rem;
+  align-self: right;
+  height: 2px;
+  border-top: 2px solid var(--color-darksalmon);
+}
+
+.line-wrapper,
+.rectangle-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+
+.line-wrapper {
+  height: 37px;
+  width: 543px;
+  flex-direction: column;
+  padding: var(--padding-18xl) 0 0;
+  box-sizing: border-box;
+  margin-left: -73px;
+}
+
+.rectangle-parent {
+  align-self: stretch;
+  background: linear-gradient(89.8deg, #41436a, #8084d0);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  flex-direction: row;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+  color: var(--color-darksalmon);
+  font-family: var(--font-arvo);
+}
+
+.bpk-nyoman-hendra-adiwijaya,
+.mari-kenal-lebih {
+  height: 41px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+}
+
+.mari-kenal-lebih {
+  width: 378px;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+
+.bpk-nyoman-hendra-adiwijaya {
+  margin: 0;
+  left: -7.24rem;
+  width: 546px;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+}
+
+.text-block {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  font-size: var(--font-size-11xl);
+  color: var(--color-darksalmon);
+}
+
+.container,
+.mari-kenal-lebih-dekat-dengan-parent {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+
+.mari-kenal-lebih-dekat-dengan-parent {
+  width: 641px;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.container {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+}
+
+.image-1-icon {
+  width: 569px;
+  height: 467px;
+  position: absolute;
+  margin: 0 !important;
+  top: 75px;
+  left: -100px;
+  object-fit: cover;
+  z-index: 3;
+}
+
+.frame-set,
+.frame-set-item {
+  position: relative;
+  max-width: 100%;
+}
+
+.frame-set {
+  align-self: stretch;
+  background-color: var(--color-darkslateblue);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 179px 0;
+  min-height: 631px;
+  text-align: center;
+  font-size: 25px;
+  color: var(--color-white);
+  font-family: var(--font-arvo);
+}
+
+.frame-set-item {
+  height: 394px;
+  width: 1280px;
+  background-color: var(--color-palevioletred);
+  display: none;
+}
+
+.lahir-di-singaraja {
+  height: 214px;
+  width: 951px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+
+.frame-set1 {
+  align-self: stretch;
+  background-color: var(--color-palevioletred);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-71xl) var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-arvo);
+}
+
+.frame-set-inner {
+  height: 342px;
+  width: 1280px;
+  position: relative;
+  background-color: var(--color-crimson);
+  display: none;
+  max-width: 100%;
+}
+
+.beliau-memulai-karir {
+  height: 214px;
+  width: 951px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+
+.frame-set2 {
+  align-self: stretch;
+  background-color: var(--color-crimson);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 64px var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-arvo);
+}
+
+.rectangle-div {
+  height: 394px;
+  width: 1280px;
+  position: relative;
+  background-color: var(--color-lightsalmon);
+  display: none;
+  max-width: 100%;
+}
+
+.perjuangan-beliau-telah {
+  height: 214px;
+  flex: 1;
+  position: relative;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+  z-index: 1;
+}
+
+.frame-set3 {
+  align-self: stretch;
+  background-color: var(--color-lightsalmon);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-71xl) 177px var(--padding-71xl) 152px;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-arvo);
+}
+
+.image-2-icon {
+  height: 507px;
+  width: 1103px;
+  position: absolute;
+  margin: 0 !important;
+  top: 45px;
+  right: -374px;
+  object-fit: contain;
+  z-index: 1;
+}
+
+.frame-inner {
+  height: 631px;
+  width: 1280px;
+  position: relative;
+  background-color: var(--color-darkslateblue);
+  display: none;
+  max-width: 100%;
+}
+
+.beliau-mengingatkan-kita {
+  height: 316px;
+  width: 976px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 2;
+}
+
+.frame-set4,
+.login,
+.rectangle-group {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.rectangle-group {
+  flex: 1;
+  background-color: var(--color-darkslateblue);
+  flex-direction: row;
+  padding: 158px 63px 157px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+
+.frame-set4,
+.login {
+  position: relative;
+}
+
+.frame-set4 {
+  align-self: stretch;
+  flex-direction: row;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-arvo);
+}
+
+.login {
+  width: 100%;
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: column;
+  letter-spacing: normal;
+}
+
+@media screen and (max-width: 1100px) {
+  .rectangle-group {
+    padding-left: var(--padding-12xl);
+    padding-right: var(--padding-12xl);
+    box-sizing: border-box;
+  }
+}
+
+@media screen and (max-width: 1025px) {
+  .bpk-nyoman-hendra-adiwijaya {
+    font-size: 24px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  .frame-set {
+    gap: 89px 0;
+  }
+
+  .frame-set3 {
+    padding-left: 76px;
+    padding-right: 88px;
+    box-sizing: border-box;
+  }
+
+  .rectangle-group {
+    padding-top: 103px;
+    padding-bottom: 102px;
+    box-sizing: border-box;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .mari-kenal-lebih {
+    font-size: var(--font-size-xl);
+  }
+
+  .bpk-nyoman-hendra-adiwijaya {
+    font-size: var(--font-size-lg);
+  }
+
+  .frame-set {
+    gap: 45px 0;
+  }
+
+  .lahir-di-singaraja {
+    font-size: var(--font-size-base);
+  }
+
+  .frame-set1 {
+    padding-top: var(--padding-39xl);
+    padding-bottom: var(--padding-39xl);
+    box-sizing: border-box;
+  }
+
+  .beliau-memulai-karir,
+  .perjuangan-beliau-telah {
+    font-size: var(--font-size-base);
+  }
+
+  .frame-set3 {

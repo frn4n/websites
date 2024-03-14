@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-arvo: Arvo;
+
+  /* font sizes */
+  --font-size-lg: 18px;
+  --font-size-xl: 20px;
+  --font-size-base: 16px;
+  --font-size-11xl: 30px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-darkslateblue: #41436a;
+  --color-lightsalmon: #fe9677;
+  --color-crimson: rgba(246, 70, 104, 0.73);
+  --color-palevioletred: #984063;
+  --color-darksalmon: #d09161;
+
+  /* Paddings */
+  --padding-12xl: 31px;
+  --padding-71xl: 90px;
+  --padding-39xl: 58px;
+  --padding-xl: 20px;
+  --padding-18xl: 37px;
+}
